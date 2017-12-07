@@ -32,7 +32,7 @@ of primary insurance / reinsurance, pricing and all economic issues.
 * HD    Air-gapped hardware device (for air-gapped signature of tx)
 * FMEA  Failure mode and effects analysis
 * EVM   Ethereum virtual machine
-* ETH   Ether
+* ETH   Ether 
 * Tx    Transaction
 * MWx   MultiSigWallet No. x
 * TAx   Token address No. x
